@@ -1,0 +1,14 @@
+# Editor files
+.vscode/
+.history/
+
+# Project Artefacts
+*.o
+*.tar
+*.zip
+*.lock
+
+# Executable
+ftp-client
+ftp-server
+ftp-lserver
